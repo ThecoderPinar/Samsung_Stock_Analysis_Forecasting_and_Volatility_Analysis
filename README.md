@@ -301,7 +301,5 @@ Bu projede emeği geçen herkese teşekkür ederiz. Projeye katkıda bulunmak is
 ---
 
 Geri bildiriminiz bizim için çok değerli. Projemize katkıda bulunmak isteyenler, lütfen yukarıdaki iletişim bilgilerini kullanarak bizimle iletişime geçmekten çekinmeyin. Teşekkürler!
-#   S a m s u n g _ S t o c k _ A n a l y s i s _ F o r e c a s t i n g _ a n d _ V o l a t i l i t y _ A n a l y s i s 
- 
- 
+#   S a m s u n g _ S t o c k _ A n a l y s i s _ F o r e c a s t i n g _ a n d _ V o l a t i l i t y _ A n a l y s i s  
  
